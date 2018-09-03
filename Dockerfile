@@ -12,5 +12,3 @@ WORKDIR /usr/src
 RUN git clone https://github.com/evancz/elm-architecture-tutorial.git
 
 EXPOSE 8000
-
-VOLUME /src

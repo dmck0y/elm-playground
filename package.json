@@ -1,0 +1,20 @@
+{
+  "name": "elm-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docker-compose up --build --remove-orphans"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmck0y/elm-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmck0y/elm-playground/issues"
+  },
+  "homepage": "https://github.com/dmck0y/elm-playground#readme"
+}
